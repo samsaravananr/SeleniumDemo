@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="JENKINS DEMO">
+
+<test name="JTEST">
+	<classes> 
+		<class name="Demo1" />
+	</classes>
+
+</test>
+
+</suite>
